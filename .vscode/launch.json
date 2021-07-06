@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Spirograph",
+            "request": "launch",
+            "mainClass": "a5.Spirograph",
+            "projectName": "CISC124_A5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestPen",
+            "request": "launch",
+            "mainClass": "a5.TestPen",
+            "projectName": "CISC124_A5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestShapes",
+            "request": "launch",
+            "mainClass": "a5.TestShapes",
+            "projectName": "CISC124_A5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestTeleport",
+            "request": "launch",
+            "mainClass": "a5.TestTeleport",
+            "projectName": "CISC124_A5"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestWalk",
+            "request": "launch",
+            "mainClass": "a5.TestWalk",
+            "projectName": "CISC124_A5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ButterflyMultiCommands",
+            "request": "launch",
+            "mainClass": "a5.commands.ButterflyMultiCommands",
+            "projectName": "CISC124_A5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ButterflySingleCommands",
+            "request": "launch",
+            "mainClass": "a5.commands.ButterflySingleCommands",
+            "projectName": "CISC124_A5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdDraw",
+            "request": "launch",
+            "mainClass": "princeton.introcs.StdDraw",
+            "projectName": "CISC124_A5"
+        }
+    ]
+}
